@@ -38,6 +38,3 @@ class Pessoa:
     @endereco.setter
     def endereco(self, endereco):
         self._endereco = endereco
-
-
-p = Pessoa("Carlos Daniel", "Avenida getulio", "065654363", "20/12/2000")
